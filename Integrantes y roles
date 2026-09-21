@@ -14,7 +14,14 @@
 
     Angélica
       -Especialista en datos y reproducibilidad
-
+  Como omo [Tu Rol], asumí la responsabilidad de liderar el procesamiento estadístico y el
+  análisis descriptivo de la sección 2.2. Desarrollé y ejecuté el do-file en Stata para calcular 
+  las medias, varianzas, desviaciones estándar, rangos, valores mínimos y máximos de los Períodos 1 y 10 
+  para ambas condiciones experimentales, consolidando los resultados en la tabla resumen reproducible 
+  del repositorio. Asimismo, me encargué del diseño de los gráficos de líneas y columnas para comparar la 
+  trayectoria temporal de las contribuciones promedio entre los experimentos con y sin castigo, redactando 
+  la interpretación conceptual de la dispersión de datos y el análisis de la regla práctica para garantizar
+  la rigurosidad técnica de los entregables.
 
     Holman
       -Analista cuantitativo 
